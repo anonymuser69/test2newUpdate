@@ -208,7 +208,7 @@ password to login to from bandit17 - VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e
 
 **commands**:
 
-1. ssh [bandit18@bandit.labs.overthewire.org](mailto:bandit18@bandit.labs.overthewire.org) -p 2220 cat readme
+1. ssh [bandit18@bandit.labs.overthewire.org](mailto:bandit18@bandit.labs.overthewire.org) -p 2220 cat ~/readme
     1. hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
 
 - **password -  awhqfNnAbc1naukrpqDYcF95h7HoMTrC**
